@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ongeengap.jwagnerphoto.com/sitemap.xml
